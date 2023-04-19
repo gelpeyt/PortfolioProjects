@@ -1,3 +1,5 @@
+-- Data Exploration of COVID Data using SQL
+
 -- Select * 
 -- From PortfolioProject..CovidDeaths
 -- Where continent is not null
